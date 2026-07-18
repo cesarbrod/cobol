@@ -1,2 +1,2 @@
-# cobol
-Sample COBOL programs
+# COBOL
+Sample COBOL programs for educational purposes only
