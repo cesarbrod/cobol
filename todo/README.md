@@ -5,7 +5,7 @@ you know basic programming concepts (variables, loops, conditionals,
 functions) but have never touched COBOL. Every COBOL-specific structure gets
 explained the first time it appears.
 
-All line numbers below refer to `todo_manager.cob` as delivered.
+All line numbers below refer to `todo.cob` as delivered.
 
 ---
 
